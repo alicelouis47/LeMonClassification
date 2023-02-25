@@ -1,0 +1,427 @@
+[
+    {
+        "filename": "NG_1.png",
+        "obj_array": [
+            {
+                "bbox": "93,316,255,234",
+                "center": "220,433",
+                "color": "255,0,255",
+                "label": "bad",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "113,348,116,91",
+                "center": "171,394",
+                "color": "49.5195,0,255",
+                "label": "defect",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "318,389,25,100",
+                "center": "330,439",
+                "color": "49.5195,0,255",
+                "label": "defect",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "NG_10.png",
+        "obj_array": [
+            {
+                "bbox": "66,339,300,259",
+                "center": "216,468",
+                "color": "255,0,255",
+                "label": "bad",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "88,353,86,165",
+                "center": "131,436",
+                "color": "49.5195,0,255",
+                "label": "defect",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "NG_2.png",
+        "obj_array": [
+            {
+                "bbox": "102,327,275,249",
+                "center": "240,452",
+                "color": "255,0,255",
+                "label": "bad",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "132,356,111,116",
+                "center": "188,414",
+                "color": "49.5195,0,255",
+                "label": "defect",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "347,415,20,95",
+                "center": "357,462",
+                "color": "49.5195,0,255",
+                "label": "defect",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "NG_3.png",
+        "obj_array": [
+            {
+                "bbox": "-8,319,265,238",
+                "center": "124,438",
+                "color": "255,0,255",
+                "label": "bad",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "16,359,97,95",
+                "center": "64,406",
+                "color": "49.5195,0,255",
+                "label": "defect",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "224,403,25,97",
+                "center": "236,452",
+                "color": "49.5195,0,255",
+                "label": "defect",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "NG_4.png",
+        "obj_array": [
+            {
+                "bbox": "-4,328,300,268",
+                "center": "146,462",
+                "color": "255,0,255",
+                "label": "bad",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "7,336,88,174",
+                "center": "51,423",
+                "color": "49.5195,0,255",
+                "label": "defect",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "NG_5.png",
+        "obj_array": [
+            {
+                "bbox": "64,354,291,257",
+                "center": "210,482",
+                "color": "255,0,255",
+                "label": "bad",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "80,368,88,168",
+                "center": "124,452",
+                "color": "49.5195,0,255",
+                "label": "defect",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "NG_6.png",
+        "obj_array": [
+            {
+                "bbox": "98,359,283,241",
+                "center": "240,480",
+                "color": "255,0,255",
+                "label": "bad",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "116,366,82,166",
+                "center": "157,449",
+                "color": "49.5195,0,255",
+                "label": "defect",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "NG_7.png",
+        "obj_array": [
+            {
+                "bbox": "91,323,254,234",
+                "center": "218,440",
+                "color": "255,0,255",
+                "label": "bad",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "119,347,99,92",
+                "center": "168,393",
+                "color": "49.5195,0,255",
+                "label": "defect",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "314,391,27,107",
+                "center": "328,444",
+                "color": "49.5195,0,255",
+                "label": "defect",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "NG_8.png",
+        "obj_array": [
+            {
+                "bbox": "1,319,261,236",
+                "center": "132,437",
+                "color": "255,0,255",
+                "label": "bad",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "15,344,120,107",
+                "center": "75,398",
+                "color": "49.5195,0,255",
+                "label": "defect",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "220,401,41,103",
+                "center": "240,452",
+                "color": "49.5195,0,255",
+                "label": "defect",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "NG_9.png",
+        "obj_array": [
+            {
+                "bbox": "0,334,294,271",
+                "center": "147,470",
+                "color": "255,0,255",
+                "label": "bad",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "0,348,83,176",
+                "center": "42,436",
+                "color": "49.5195,0,255",
+                "label": "defect",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "NO_OBJ1.png",
+        "obj_array": [
+        ]
+    },
+    {
+        "filename": "NO_OBJ2.png",
+        "obj_array": [
+        ]
+    },
+    {
+        "filename": "OK_1.png",
+        "obj_array": [
+            {
+                "bbox": "122,355,286,265",
+                "center": "265,488",
+                "color": "0,255,24.7597",
+                "label": "good",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "OK_10.png",
+        "obj_array": [
+            {
+                "bbox": "151,343,280,251",
+                "center": "291,468",
+                "color": "0,255,24.7597",
+                "label": "good",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "OK_2.png",
+        "obj_array": [
+            {
+                "bbox": "-15,373,243,274",
+                "center": "106,510",
+                "color": "0,255,24.7597",
+                "label": "good",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "OK_3.png",
+        "obj_array": [
+            {
+                "bbox": "149,346,289,261",
+                "center": "294,476",
+                "color": "0,255,24.7597",
+                "label": "good",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "OK_4.png",
+        "obj_array": [
+            {
+                "bbox": "62,309,272,259",
+                "center": "198,438",
+                "color": "0,255,24.7597",
+                "label": "good",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "OK_5.png",
+        "obj_array": [
+            {
+                "bbox": "143,354,297,262",
+                "center": "292,485",
+                "color": "0,255,24.7597",
+                "label": "good",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "OK_6.png",
+        "obj_array": [
+            {
+                "bbox": "21,368,306,282",
+                "center": "174,509",
+                "color": "0,255,24.7597",
+                "label": "good",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "OK_7.png",
+        "obj_array": [
+            {
+                "bbox": "165,346,273,261",
+                "center": "302,476",
+                "color": "0,255,24.7597",
+                "label": "good",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "OK_8.png",
+        "obj_array": [
+            {
+                "bbox": "115,319,271,245",
+                "center": "250,442",
+                "color": "0,255,24.7597",
+                "label": "good",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "OK_9.png",
+        "obj_array": [
+            {
+                "bbox": "84,346,280,263",
+                "center": "224,478",
+                "color": "0,255,24.7597",
+                "label": "good",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    }
+]
